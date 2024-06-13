@@ -1,3 +1,11 @@
-## Hi there 👋
+# 🛜 About me :
 
-<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
+I am a programmer and I aim to work in cybersecurity as a pentester.
+
+I am pationnate and have been spending most of my free time learing about computers for the past two years.
+
+## 📕 I read :
+
+<img src="https://m.media-amazon.com/images/I/91LMg3sFl1L._AC_UF1000,1000_QL80_.jpg" width=20% height=20%>
+
+
