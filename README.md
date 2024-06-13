@@ -13,7 +13,7 @@ This helped me understand the way our computers communate with each other and ga
 
 ## 🤖 Programming languages
 
-<img src="https://simpleicons.org/icons/rust.svg" width=5% height=5%>
+<img src="https://simpleicons.org/icons/rust.svg" width=5% height=5% style="filter: invert(74%) sepia(3%) saturate(601%) hue-rotate(317deg) brightness(105%) contrast(101%);>
 
 
 
