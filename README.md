@@ -11,8 +11,21 @@ I am pationnate and have been spending most of my free time learing about comput
 This helped me understand the way our computers communate with each other and gave me low level network understanding.
 
 
-## 🤖 Programming languages
+## 🤖 Programming languages :
 
 ![RUST](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=green) 
 ![PYTHON](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=green)
 
+
+## ⌨️ Projects :
+
+`Vinted web scraping and discord bot` **python**
+
+`DOXXER a tool for port scanning and target data` **rust**
+
+`web crowler` **python**
+
+
+## 🖊️ Cybersecurity :
+
+I play HackTheBox and run dualboot on my pc windows and kali linux.
