@@ -13,8 +13,6 @@ This helped me understand the way our computers communate with each other and ga
 
 ## 🤖 Programming languages
 
-<img src="https://simpleicons.org/icons/rust.svg" width=5% height=5% style="filter: invert(74%) sepia(3%) saturate(601%) hue-rotate(317deg) brightness(105%) contrast(101%);>
-
-
-
+![RUST](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=green) 
+![PYTHON](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=green)
 
