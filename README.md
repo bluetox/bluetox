@@ -13,8 +13,8 @@ This helped me understand the way our computers communate with each other and ga
 
 ## 🤖 Programming languages
 
-<img class="icon-preview ld" src="/icons/1001tracklists.svg">
+<img src="https://simpleicons.org/icons/rust.svg" width=5% height=5%>
 
-<button class="grid-item__preview copy-button copy-svg" title="Rust SVG"><img class="icon-preview ld" src="https://simpleicons.org/icons/rust.svg"></button>
+
 
 
