@@ -11,3 +11,10 @@ I am pationnate and have been spending most of my free time learing about comput
 This helped me understand the way our computers communate with each other and gave me low level network understanding.
 
 
+## 🤖 Programming languages
+
+<img class="icon-preview ld" src="/icons/1001tracklists.svg">
+
+<button class="grid-item__preview copy-button copy-svg" title="Rust SVG"><img class="icon-preview ld" src="/icons/rust.svg"></button>
+
+
