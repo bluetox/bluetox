@@ -15,6 +15,6 @@ This helped me understand the way our computers communate with each other and ga
 
 <img class="icon-preview ld" src="/icons/1001tracklists.svg">
 
-<button class="grid-item__preview copy-button copy-svg" title="Rust SVG"><img class="icon-preview ld" src="/icons/rust.svg"></button>
+<button class="grid-item__preview copy-button copy-svg" title="Rust SVG"><img class="icon-preview ld" src="https://simpleicons.org/icons/rust.svg"></button>
 
 
