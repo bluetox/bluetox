@@ -4,7 +4,7 @@
 
 ## What I'm Passionate About:
 - **Cybersecurity**: My primary focus, with a keen interest in penetration testing.
-- **Coding**: I code in Python as a kind of schematic before implementing in C. I've also experimented with RUST, though I'm a bit rusty now as I've shifted focus to C.
+- **Coding**: I code in Python as a kind of schematic before implementing in C or C++. I've also experimented with RUST, though I'm a bit rusty now as I've shifted focus to other low level programming languages.
 - **Research**: From computer networking to web scraping basics, APIs, reverse engineering, and much more, I’m constantly learning and expanding my knowledge.
 
 ## My Projects:
