@@ -1,15 +1,34 @@
-# Welcome to My GitHub Profile!
+# Hi, I'm bluetox 👋
 
-👋 **Hello!** I'm on an exciting journey to become a Pentester in Cybersecurity. Over the past few years, I've been diving deep into the world of coding and researching the intricacies of how computers and networks function.
+Welcome to my GitHub! I'm a passionate developer with **2-3 years** of coding experience, constantly exploring new technologies and building exciting projects. Here's a bit about me:
 
-## What I'm Passionate About:
-- **Cybersecurity**: My primary focus, with a keen interest in penetration testing.
-- **Coding**: I code in Python as a kind of schematic before implementing in C or C++. I've also experimented with RUST, though I'm a bit rusty now as I've shifted focus to other low level programming languages.
-- **Research**: From computer networking to web scraping, APIs, reverse engineering, cryptography,hashing, and much more, I’m constantly learning and expanding my knowledge.
+## About Me
+- 🔒 **Security Enthusiast**: Creator of an **encrypted messenger app** that focuses on privacy and secure communication.
+- ⚖️ **Full-Stack Developer**: Comfortable working across the entire tech stack to bring ideas to life.
+- 🔧 **Tech Explorer**: Skilled in Python, JavaScript (Node.js, Electron), and C++ with some experience in SQL and C.
 
-## My Projects:
-On my GitHub, you can find personal projects that showcase my learning journey. These projects reflect my progress as I continue to hone my skills in cybersecurity and programming.
+## Current Projects
+### Encrypted Messenger App
+One of my proudest creations is a **secure messenger app**. Here's what makes it stand out:
+- Uses **end-to-end encryption** to keep conversations private.
+- Built with **modern web technologies** for performance and scalability.
+- Designed with a **user-friendly interface**, making secure communication accessible to everyone.
 
-Feel free to explore, contribute, or reach out if you share similar interests!
+Other projects include:
+- **React Native** applications using Expo.
+- Various full-stack applications leveraging my skills in Python and Node.js.
 
-🚀 **Let's connect and grow together in this exciting field!**
+## Technologies I Work With
+### Programming Languages:
+- **Python** 💚
+- **JavaScript** (Node.js, Electron)
+- **C++**
+- **SQL**
+
+### Tools & Frameworks:
+- **Expo** for React Native development
+- **SHA-256** encryption (implemented in C++)
+- **Secrets Management** for secure session handling
+
+Feel free to explore my repositories and drop a star if you like what you see! I'm always open to collaborations and learning from others.
+
