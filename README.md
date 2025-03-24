@@ -27,9 +27,7 @@ Other projects include:
 - **SQL**
 
 ### Tools & Frameworks:
-- **Expo** for React Native development
-- **SHA-256** encryption (implemented in C++)
-- **Secrets Management** for secure session handling
+- **Tauri** for cross plateform developement (rust)
 
 Feel free to explore my repositories and drop a star if you like what you see! I'm always open to collaborations and learning from others.
 
