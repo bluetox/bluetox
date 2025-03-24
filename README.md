@@ -21,6 +21,7 @@ Other projects include:
 ## Technologies I Work With
 ### Programming Languages:
 - **Python** 💚
+- **Rust** 🪐
 - **JavaScript** (Node.js, Electron)
 - **C++**
 - **SQL**
