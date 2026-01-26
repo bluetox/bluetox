@@ -4,8 +4,7 @@ Welcome to my GitHub! I'm a passionate developer with **2-3 years** of coding ex
 
 ## About Me
 - 🔒 **Security Enthusiast**: Creator of an **encrypted messenger app** that focuses on privacy and secure communication.
-- ⚖️ **Full-Stack Developer**: Comfortable working across the entire tech stack to bring ideas to life.
-- 🔧 **Tech Explorer**: Skilled in Rust, Python, JavaScript (Node.js, Electron), and C++ with some experience in SQL and C.
+- 🔧 **Tech Explorer**: Skilled in Rust, Python, JavaScript (Node.js, Electron), and C with some experience in SQL and C++.
 
 ## Current Projects
 ### Fully Descentralized Encrypted Messenger App
