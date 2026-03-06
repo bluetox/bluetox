@@ -1,34 +1,41 @@
 # Hi, I'm bluetox 👋
 
-Welcome to my GitHub! I'm a passionate developer with **2-3 years** of coding experience, constantly exploring new technologies and building exciting projects. Here's a bit about me:
+I'm a **Systems & Security Focused Developer** currently pursuing a B.U.T. in Computer Science. I specialize in low-level programming, concurrent systems, and cryptography, with a deep-seated love for the **Rust** ecosystem.
 
-## About Me
-- 🔒 **Security Enthusiast**: Creator of an **encrypted messenger app** that focuses on privacy and secure communication.
-- 🔧 **Tech Explorer**: Skilled in Rust, Python, JavaScript (Node.js, Electron), and C with some experience in SQL and C++.
+## 🛠 Core Tech Stack
 
-## Current Projects
-### Fully Descentralized Encrypted Messenger App
-One of my proudest creations is a **secure messenger app**. Here's what makes it stand out:
-- Uses a custom P2P protocol for post quantum and standard auth and encryption.
-- Built with **modern web technologies** for performance and scalability.
-- Designed with a **user-friendly interface**, making secure communication accessible to everyone.
-- Cross plateform secure and lightweight thanks to the tauri framework.
-- Descentralized using a custom node assignement and message forwarding system.
+* **Languages:** `Rust` (Primary), `C / C++`, `Python`, `Bash`.
+* **Systems & Ops:** `Linux` (Arch, Debian), `Nginx`, `Postfix`, `Docker`, `Git`.
+* **Specialties:** System Daemons, Reverse Engineering, Cryptographic Implementations, P2P Networking.
 
-Other projects include:
-- **React Native** applications using Expo.
-- Various full-stack applications leveraging my skills in Python and Node.js.
+## 🚀 Featured Projects
 
-## Technologies I Work With
-### Programming Languages:
-- **Python** 💚
-- **Rust** 🪐
-- **JavaScript** (Node.js, Electron)
-- **C++**
-- **SQL**
+### 🦀 Rust Systems & Tooling
 
-### Tools & Frameworks:
-- **Tauri** for cross plateform developement (rust)
+* **Task Manager Daemon**: A high-performance background service for concurrent task execution. Built with the `Tokio` runtime, using `mpsc` channels for task queuing and `Bincode` for optimized serialization.
+* **Pure DSA (ML-DSA)**: A clean-room implementation of the **Dilithium (ML-DSA)** post-quantum cryptographic algorithm, focusing on implementation security and memory safety.
+* **Custom P2P Messenger**: A decentralized communication platform using a custom node assignment protocol and post-quantum authentication, built with the `Tauri` framework for a lightweight cross-platform footprint.
 
-Feel free to explore my repositories and drop a star if you like what you see! I'm always open to collaborations and learning from others.
+### 🔍 Reverse Engineering & Security
 
+* **Android Game Modding**: Deep-dive reverse engineering of native Android libraries using `Jadx`. Developed a custom modding engine in Rust to handle function hijacking and live memory dumps.
+
+## 🌐 Infrastructure & SysAdmin
+
+Aside from development, I manage the IT infrastructure for an audiovisual association:
+
+* **Full Stack Admin**: Deployment and maintenance of dedicated Linux servers.
+* **Mail & Web**: Configuration of secure `Postfix` mail servers and `Nginx` reverse proxies.
+* **Automation**: Scripting in Bash and Python to streamline server security and DNS management.
+
+## 📈 What I'm into right now
+
+* 🛡️ Advanced **Post-Quantum Cryptography**.
+* 🏗️ Memory-safe **OS Architecture**.
+* 🏎️ Optimizing **concurrent runtimes** in Rust.
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to discussing system architecture, low-level optimizations, or cool Rust crates.
