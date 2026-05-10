@@ -30,9 +30,9 @@ Aside from development, I manage the IT infrastructure for an audiovisual associ
 
 ## 📈 What I'm into right now
 
-* 🛡️ Advanced **Post-Quantum Cryptography**.
-* 🏗️ Memory-safe **OS Architecture**.
-* 🏎️ Optimizing **concurrent runtimes** in Rust.
+* Exploring cryptography concepts and papers.
+* Working on school projects and managing my team.
+* Building a website for a client.
 
 ---
 
